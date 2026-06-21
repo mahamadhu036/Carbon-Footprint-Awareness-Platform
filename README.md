@@ -1,10 +1,10 @@
-# EcoCompass - Carbon Footprint Tracker
+# Carbon-Footprint-Awareness-Platform (EcoCompass)
 
-EcoCompass is a smart, dynamic web application designed to help individuals understand, track, and reduce their carbon footprint through personalized insights and actionable steps. This project is my submission for **Challenge 3**.
+EcoCompass is an AI-powered carbon footprint tracker that helps users measure, understand, and reduce their environmental impact. By logging daily activities across transport, energy, food, shopping, and waste, it delivers real-time CO₂ calculations, personalized AI insights, and practical recommendations for a more sustainable lifestyle.
 
 ## 1. Chosen Vertical
 **Everyday Individual / Eco-conscious Beginner**
-The application targets an average person who wants to understand their environmental impact but may feel overwhelmed by complex data. EcoCompass simplifies this by focusing on three core areas: Transport, Diet, and Home Energy.
+The application targets an average person who wants to understand their environmental impact but may feel overwhelmed by complex data. EcoCompass simplifies this by focusing on core areas: Transport, Diet, and Home Energy.
 
 ## 2. Approach and Logic
 * **Context-Aware Decision Making:** The app first conducts a short assessment to calculate the user's estimated annual carbon footprint (in tons of CO₂). 
